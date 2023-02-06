@@ -18,6 +18,7 @@ public class MyFirstRun {
 
         driver.get("https://www.google.com");
 
+        
         // Current URL
         System.out.println("driver.getCurrentUrl() = " + driver.getCurrentUrl());
 
